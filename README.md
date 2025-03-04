@@ -9,6 +9,7 @@
 
 ### Estrutura de Pastas
 
+```
 phishing-facebook
 ├── prints
 │ ├── print-1.png
@@ -16,6 +17,7 @@ phishing-facebook
 │ ├── print-3.png
 │ └── resultado.png
 └── README.md
+```
 
 ### Funcionalidades
 
